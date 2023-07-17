@@ -20,3 +20,5 @@ It uses coordinates saved on the firestore and renders the path in the google ma
 - Copy the firebase `PROJECT_ID` and paste it in the `.firebaserc` file
 - `yarn gcloud init` select the project
 - `yarn start`
+
+<img src="Screenshot.png" width="400"/>
